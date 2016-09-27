@@ -1,0 +1,20 @@
+{
+  "name": "befunge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cli": "^0.11.18",
+    "typescript": "^2.0.0"
+  },
+  "dependencies": {
+    "cli": "^1.0.0"
+  }
+}
